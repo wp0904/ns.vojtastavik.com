@@ -1,0 +1,19 @@
+https://grenoble-backoffice.data4citizen.com/user/edit/only
+http://ckan-loadb-1i0kt7rfif3ye-115e79b6641d85fd.elb.ap-southeast-1.amazonaws.com/user/edit/nemo
+https://dados.ufac.br/user/edit/only
+https://data.klldev.org/user/edit/only
+http://13.228.91.87/user/register/
+http://18.139.143.5/user/register/
+http://144.91.109.2 00/user/register/
+http://3.108.237.107/user/register/
+https://opendata.easypal.it/user/register/
+http://217.18.163.217/user/register/
+http://141.5.109.78/fa_IR/user/slot-online
+https://catalog.ndp.utah.edu/user/register/
+http://tk2-226-22845.vs.sakura.ne.jp/user/register/
+https://data.dmc.nycu.edu.tw/uploads/user/register/
+https://opendata.comune.ra.it/user/register/
+https://ckanfeo.ymparisto.fi/user/register/
+http://ckan.bousai.pref.kumamoto.jp/es_AR/user/register/
+https://ruraldados.pt/uploads/user/register/
+https://brixham.thedata.place/user/register/
